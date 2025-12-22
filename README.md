@@ -12,12 +12,6 @@ React.js • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS
 Redux • React Router • React Hooks • Context API
 ```
 
-**Backend & Tools:**
-```
-Node.js • Express • REST APIs • Git • GitHub
-Responsive Design • Cross-browser Compatibility
-```
-
 **Currently Learning:**
 ```
 TypeScript • Next.js • Testing (Jest, React Testing Library)
