@@ -21,20 +21,23 @@ TypeScript • Next.js • Testing (Jest, React Testing Library)
 
 ### 💼 Featured Projects
 
-#### 🎯 [Project Name 1]
-A full-stack web application built with React, featuring real-time data updates and responsive design
-- **Tech:** React, Context API, Tailwind CSS, REST API
-- **Live Demo:** [link] | **Code:** [link]
+#### 📝 Task Manager Pro
+A modern task management application with priority levels, smart filtering, and persistent storage
+- **Tech:** React, JavaScript, Tailwind CSS, Local Storage, React Hooks
+- **Live Demo:** [View App](https://task-manager-app-rzwp.vercel.app/) | **Code:** [GitHub](https://github.com/TPADEJUWON/task-manager-app)
+- **Features:** CRUD operations, Priority tagging, Real-time statistics, Filter by status
 
-#### 🎯 [Project Name 2]
-Interactive dashboard with dynamic charts and user authentication
-- **Tech:** React, Chart.js, Local Storage, React Router
-- **Live Demo:** [link] | **Code:** [link]
+#### 🌤️ Weather Dashboard
+Real-time weather application providing current conditions and 5-day forecasts for cities worldwide
+- **Tech:** React, REST API, Tailwind CSS, Open-Meteo API, Async/Await
+- **Live Demo:** [View App](https://weather-dashboard-lac-tau.vercel.app/) | **Code:** [GitHub](https://github.com/TPADEJUWON/weather-dashboard)
+- **Features:** Global city search, Dynamic UI backgrounds, 5-day forecast, Weather metrics
 
-#### 🎯 [Project Name 3]
-E-commerce product showcase with filtering and search functionality
-- **Tech:** React, Hooks, CSS Modules, API Integration
-- **Live Demo:** [link] | **Code:** [link]
+#### 🛒 ShopHub E-commerce Gallery
+Full-featured product gallery with advanced filtering, shopping cart, and favorites system
+- **Tech:** React, JavaScript, Tailwind CSS, State Management, React Hooks
+- **Live Demo:** [View App](https://ecommerce-gallery-rho.vercel.app/) | **Code:** [GitHub](https://github.com/TPADEJUWON/ecommerce-gallery)
+- **Features:** Smart search, Multi-filter system, Cart management, Wishlist functionality
 
 ---
 
