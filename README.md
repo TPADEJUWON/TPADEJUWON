@@ -38,7 +38,28 @@ Full-featured product gallery with advanced filtering, shopping cart, and favori
 - **Tech:** React, JavaScript, Tailwind CSS, State Management, React Hooks
 - **Live Demo:** [View App](https://ecommerce-gallery-rho.vercel.app/) | **Code:** [GitHub](https://github.com/TPADEJUWON/ecommerce-gallery)
 - **Features:** Smart search, Multi-filter system, Cart management, Wishlist functionality
+- 
 
+🤖 AI Chat Assistant
+Intelligent chat application with real-time AI responses powered by Claude AI
+
+Tech: React • Claude API • Tailwind CSS • LocalStorage
+Features: AI responses, Message history, Export chat, Real-time updates
+Live: [Demo](https://ai-chat-assistant-orcin.vercel.app/)
+
+💰 Finance Dashboard & Expense Tracker
+Comprehensive finance tracker with interactive charts and budget management
+
+Tech: React • Recharts • Tailwind CSS • Data Visualization
+Features: Interactive charts, Budget tracking, CSV export, 6-month trends
+Live: [Demo](https://finance-dashboard-blush-delta.vercel.app/)
+
+📈 Real-Time Cryptocurrency Tracker
+Live crypto tracker with portfolio management and market analytics
+
+Tech: React • CoinGecko API • Recharts • Real-time Data
+Features: Live prices, Portfolio tracking, Market analytics, 7d charts
+Live: [Demo](https://crypto-tracker-theta-drab.vercel.app/)
 ---
 
 ### 📊 GitHub Stats
@@ -61,7 +82,7 @@ Full-featured product gallery with advanced filtering, shopping cart, and favori
 ### 📫 Let's Connect
 
 - **Email:** tosin0601@gmail.com
-- **Portfolio:** [Your Portfolio URL]
+- **Portfolio:** [[Portfolio]](https://portfolio-umber-two-42.vercel.app/)
 - **LinkedIn:** https://www.linkedin.com/in/tosin-adejuwon-08507b110/
 
 
